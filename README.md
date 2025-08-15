@@ -1,3 +1,5 @@
+
+https://manav0344.github.io/Furniture-shop/
 🛋️ Furniture Website
 
 A modern, responsive furniture store website built using **HTML**, **CSS**, and **JavaScript**.  
